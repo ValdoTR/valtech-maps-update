@@ -367,7 +367,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/valdotr.github.io\/valtech-map-xmas\/meetings.json"
+         "value":"https:\/\/valdotr.github.io\/valtech-maps-update\/meetings.json"
         }, 
         {
          "name":"mapName",

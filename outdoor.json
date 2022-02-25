@@ -187,9 +187,34 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Valtech mobility, outdoor map."
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"outdoor.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/valdotr.github.io\/valtech-maps-update\/outdoor.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Outdoor"
+        }, 
+        {
          "name":"script",
          "type":"string",
-         "value":"..\/..\/script.js"
+         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
